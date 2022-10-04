@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cute-react/static/css/main.3b8f8085.css",
-    "main.js": "/cute-react/static/js/main.95eb55aa.js",
+    "main.css": "/cute-react/static/css/main.8d328ce7.css",
+    "main.js": "/cute-react/static/js/main.2b82cfab.js",
     "static/media/open.png": "/cute-react/static/media/open.06e94f7f7cf593b5b2be.png",
     "static/media/close.png": "/cute-react/static/media/close.19b029f435b482683c83.png",
     "index.html": "/cute-react/index.html",
-    "main.3b8f8085.css.map": "/cute-react/static/css/main.3b8f8085.css.map",
-    "main.95eb55aa.js.map": "/cute-react/static/js/main.95eb55aa.js.map"
+    "main.8d328ce7.css.map": "/cute-react/static/css/main.8d328ce7.css.map",
+    "main.2b82cfab.js.map": "/cute-react/static/js/main.2b82cfab.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b8f8085.css",
-    "static/js/main.95eb55aa.js"
+    "static/css/main.8d328ce7.css",
+    "static/js/main.2b82cfab.js"
   ]
 }
